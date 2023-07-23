@@ -1,0 +1,10 @@
+{
+    "DB_HOST": "my-database.clftjtx6mpmt.us-east-1.rds.amazonaws.com",
+    "DB_PORT": "5432",
+    "DB_USER": "gowtham12345",
+    "DB_PASSWORD": "gowthamk",
+    "DB_NAME": "firstdatabase",
+    "EXTERNAL_API_URL": "https://z9oslbnrxb.execute-api.us-east-1.amazonaws.com/prod/sqs",
+    "QUEUE_URL": "https://sqs.us-east-1.amazonaws.com/627270240654/msgsqsqueue"
+  }
+  
